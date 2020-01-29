@@ -1,0 +1,16 @@
+
+
+.bill-total-container{
+    font-size: 24px;
+    font-weight: bolder;
+    margin: auto;
+    padding: 5px 0;
+}
+
+.total-saved-container {
+    font-size: 28px;
+    font-weight: bolder;
+    margin: auto;
+    padding: 5px 0;
+    color: blueviolet;
+}

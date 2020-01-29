@@ -1,0 +1,19 @@
+.bill-list-container{
+    margin: auto;
+    box-sizing: border-box;
+    width: 300px;
+}
+
+.bill-list-row{
+    display: block;
+}
+
+.bill-list-row-content{
+    font-size: 20px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.form-check-input{
+    cursor: pointer;
+}
