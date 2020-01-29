@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/savings-app/static/css/main.c4f20d7d.chunk.css",
+    "main.js": "/savings-app/static/js/main.c07401cf.chunk.js",
+    "main.js.map": "/savings-app/static/js/main.c07401cf.chunk.js.map",
+    "runtime-main.js": "/savings-app/static/js/runtime-main.bd2bc4ca.js",
+    "runtime-main.js.map": "/savings-app/static/js/runtime-main.bd2bc4ca.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/savings-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4071f12a.chunk.js": "/savings-app/static/js/2.4071f12a.chunk.js",
+    "static/js/2.4071f12a.chunk.js.map": "/savings-app/static/js/2.4071f12a.chunk.js.map",
+    "index.html": "/savings-app/index.html",
+    "precache-manifest.2d7e6c6acdbb3836e22bd9813fa58fb5.js": "/savings-app/precache-manifest.2d7e6c6acdbb3836e22bd9813fa58fb5.js",
+    "service-worker.js": "/savings-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/savings-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.c4f20d7d.chunk.css.map": "/savings-app/static/css/main.c4f20d7d.chunk.css.map",
+    "static/js/2.4071f12a.chunk.js.LICENSE": "/savings-app/static/js/2.4071f12a.chunk.js.LICENSE",
+    "static/media/App.css": "/savings-app/static/media/background.e06fded0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2bc4ca.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.4071f12a.chunk.js",
+    "static/css/main.c4f20d7d.chunk.css",
+    "static/js/main.c07401cf.chunk.js"
+  ]
+}
